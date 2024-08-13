@@ -28,5 +28,3 @@ Key Features
 
     Lucide-React: Icon set for beautiful and scalable vector icons in your React applications.
 
-## Video Tutorial that goes with this project 
-    https://www.youtube.com/watch?v=ffJ38dBzrlY&t=12201s
