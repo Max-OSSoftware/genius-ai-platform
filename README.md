@@ -5,7 +5,7 @@
 <img src="readmeImages/Genius.png">
 
 
-Genius is a cutting-edge SaaS AI platform that empowers businesses with powerful Artificial Intelligence capabilities. With seamless integration of Next.js 13, React, Tailwind CSS, Prisma, and Stripe, Genius offers unparalleled flexibility and efficiency for AI-driven applications.
+Genius is a cutting-edge SaaS AI platform that empowers businesses with powerful Artificial Intelligence capabilities. With seamless integration of Next.js, React, Tailwind CSS, Prisma, and Stripe, Genius offers unparalleled flexibility and efficiency for AI-driven applications.
 Key Features
 
 1. Next.js 13: Benefit from the latest features and improvements in the Next.js framework to build robust web applications.
