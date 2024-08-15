@@ -1,4 +1,4 @@
-# Genius a AI Platform
+# Genius AI Platform
 
 
 
